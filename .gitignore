@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Database/bin/Debug/net8.0
+/Database/obj
+/Logic/bin/Debug/net8.0
+/Logic/obj
+/Service/obj
+/TitanLibrary/.vs
+/TitanLibrary/bin/Debug/net8.0
+/TitanLibrary/obj

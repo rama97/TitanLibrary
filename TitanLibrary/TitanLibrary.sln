@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanLibrary", "TitanLibrary.csproj", "{FD2E3064-EA24-4119-8BBC-71807A863286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "..\Database\Database.csproj", "{FDEC9B64-3C5F-4A49-AD50-B774FF5E0207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "..\Logic\Logic.csproj", "{F621A5AD-8C83-4EC8-B773-DED581816CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2E3064-EA24-4119-8BBC-71807A863286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2E3064-EA24-4119-8BBC-71807A863286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2E3064-EA24-4119-8BBC-71807A863286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2E3064-EA24-4119-8BBC-71807A863286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEC9B64-3C5F-4A49-AD50-B774FF5E0207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEC9B64-3C5F-4A49-AD50-B774FF5E0207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEC9B64-3C5F-4A49-AD50-B774FF5E0207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEC9B64-3C5F-4A49-AD50-B774FF5E0207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F621A5AD-8C83-4EC8-B773-DED581816CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F621A5AD-8C83-4EC8-B773-DED581816CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F621A5AD-8C83-4EC8-B773-DED581816CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F621A5AD-8C83-4EC8-B773-DED581816CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {973FE14F-C4D1-4759-83D8-EE103E87C9E5}
+	EndGlobalSection
+EndGlobal
